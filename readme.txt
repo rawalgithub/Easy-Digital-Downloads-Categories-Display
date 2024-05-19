@@ -38,10 +38,7 @@ Yes, you can customize the styles of the category display by adding custom CSS t
 = 1.0 =
 * Initial release.
 
-== Support ==
-
-For support or questions, please visit the [plugin page on WordPress.org](https://wordpress.org/plugins/easy-digital-downloads-categories-display/) or [contact us](https://example.com/contact/).
 
 == Contributing ==
 
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please [create an issue](https://github.com/yourusername/your-plugin-repo/issues) or [submit a pull request](https://github.com/yourusername/your-plugin-repo/pulls) on GitHub.
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please [create an issue](https://github.com/rawalgithub/Easy-Digital-Downloads-Categories-Display/issues) or [submit a pull request](https://github.com/rawalgithub/Easy-Digital-Downloads-Categories-Display/pulls) on GitHub.
